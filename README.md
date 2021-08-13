@@ -19,4 +19,4 @@ Paradigma
 - Orientada a Objeto
 
 ## 📐 Projeto
-Este Projeto foi desenvolvido utilizando o agente simples com inteligência artificial.
+Este Projeto foi desenvolvido utilizando o agente simples.
